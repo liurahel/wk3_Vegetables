@@ -51,6 +51,10 @@ body {
     text-decoration: none;
     display: flex;
     align-items: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19.07px;
+    height: 27px;
 }
 
 /*導覽列*/
